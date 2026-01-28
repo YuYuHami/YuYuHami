@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 Hi, I’m a data engineer–focused graduate building data pipelines, automation workflows, and analytics-ready datasets.
-💻 I primarily work with Python, SQL, and R to clean, transform, validate, and automate data from multiple sources.
-⚙️ My projects focus on ETL pipelines, data quality, reproducible workflows, and scalable system design, with experience using Git, Docker, Linux, and Quarto.
-📊 I’ve built end-to-end data systems and machine learning pipelines on real-world datasets, emphasizing maintainability, accuracy, and performance.
-🚀 Actively building and refining projects that demonstrate junior data engineering and analytics capabilities, with a focus on making data reliable, accessible, and actionable.
+- 👋 Hi, I’m a data engineer–focused graduate building data pipelines, automation workflows, and analytics-ready datasets.
+- 💻 I primarily work with Python, SQL, and R to clean, transform, validate, and automate data from multiple sources.
+- ⚙️ My projects focus on ETL pipelines, data quality, reproducible workflows, and scalable system design, with experience using Git, Docker, Linux, and Quarto.
+- 📊 I’ve built end-to-end data systems and machine learning pipelines on real-world datasets, emphasizing maintainability, accuracy, and performance.
+- 🚀 Actively building and refining projects that demonstrate junior data engineering and analytics capabilities, with a focus on making data reliable, accessible, and actionable.
 
 
 # 💻 Tech Stack:
