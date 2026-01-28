@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi, I am a Master’s student in Bioinformatics at VCU, With a Bachelors of Science in Microbiology from MSU.<br>🧬 I’m passionate about data science, especially in the context of healthcare and pharmaceuticals.<br>💻 I work mostly in Python, R, and SQL for data analysis, automation, and visualization.<br>📊 Currently working part-time as a Behavior Technician while collaborating on side projects involving biological data.<br>🚀 Always open to learning and building tools that make data more accessible and actionable.
+👋 Hi, I’m a data engineer–focused graduate building data pipelines, automation workflows, and analytics-ready datasets.
+💻 I primarily work with Python, SQL, and R to clean, transform, validate, and automate data from multiple sources.
+⚙️ My projects focus on ETL pipelines, data quality, reproducible workflows, and scalable system design, with experience using Git, Docker, Linux, and Quarto.
+📊 I’ve built end-to-end data systems and machine learning pipelines on real-world datasets, emphasizing maintainability, accuracy, and performance.
+🚀 Actively building and refining projects that demonstrate junior data engineering and analytics capabilities, with a focus on making data reliable, accessible, and actionable.
 
 
 # 💻 Tech Stack:
